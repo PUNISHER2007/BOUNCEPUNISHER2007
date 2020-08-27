@@ -1,2 +1,2 @@
-# BOUNCEPUNISHER2007
-bounceoffalgorithim
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
